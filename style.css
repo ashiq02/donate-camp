@@ -1,0 +1,42 @@
+body {
+    font-family: poppins;
+}
+
+.hero {
+    text-align: center;
+    /* background-image: url(images/bhb1.jpg); */
+    padding: 150px;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    margin-bottom: 200px;
+    background-size: cover;
+    height: 600px;
+}
+.img{
+margin-top: 200px;
+}
+
+.heroHeader h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.heroHeader p {
+    font-size: 20px;
+    color: black;
+    padding-bottom: 40px;
+}
+
+.heroHeader {
+    padding-top: 70px;
+}
+
+.heroHeader a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 40px;
+    background-color: #f70763;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px gray;
+}
